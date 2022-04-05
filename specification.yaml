@@ -9,7 +9,7 @@ instance_template:
     boot_disk_spec:
         mode: READ_WRITE
         disk_spec:
-            image_id: fd8fosbegvnhj5haiuoq
+            image_id: fd87uq4tagjupcnm376a
             type_id: network-hdd
             size: 32g
     network_interface_specs:
